@@ -1,2 +1,2 @@
 # PontosTuristicos
-An API of tourism using Django Rest Framework
+A tourism API using Django Rest Framework
